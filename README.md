@@ -4,7 +4,7 @@
 **YouTube Manager** is a command-line application that allows users to manage a database of YouTube videos. 
 Built with **Python** and **SQLite**, this project demonstrates how to perform basic CRUD (Create, Read, Update, Delete) operations through a simple menu-driven interface.
 
-![YouTube Manager Screenshot](./image.png)
+![python youtube](https://github.com/user-attachments/assets/48ef3618-8cf7-4f43-9d54-594d0d03bd60)
 
 ---
 
